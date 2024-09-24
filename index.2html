@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container{
+        border-top-width: 40px;
+        padding: 50px;
+        background-color: rgb(112, 245, 181);
+        border-radius: 10px;
+        height: 250px;
+        width: 400px;
+        position: absolute;
+        top:10%;
+        left: 400px;"
+        }
+        hr{ 
+            position: relative;
+            top: 50%;
+            left: -14%;
+            width: 130%;
+
+        }
+    </style>
+</head>
+<body>
+        <div class="container">
+    <h1> Business <br> Development</h1>
+    <p style="color: black;">Have an idea or inquiry for Waze development?</p>
+    <button style="border-radius: 20px; padding: 10px 25px; background-color: white;  
+    border: white;"><b> share your ideas</b> </button>
+    <hr>
+        </div>
+
+</body>
+
+</html>
+
+
+  
